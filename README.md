@@ -16,9 +16,12 @@
 
 <br/>
 
+```mail to: marxists@protonmail.com```
 
 -----------------------
 
 微信公众号：**聊协MIT** 
 
 ![聊协MIT](https://raw.githubusercontent.com/seefun/marxists/master/data/barcode.jpg )
+
+
