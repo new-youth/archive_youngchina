@@ -21,3 +21,4 @@
 
 微信公众号：**聊协MIT** 
 
+![聊协MIT](https://raw.githubusercontent.com/seefun/marxists/master/data/%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg )
