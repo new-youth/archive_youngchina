@@ -4,10 +4,10 @@
 
 #### 聊协MIT社刊《在路上》
 
-[《ON THE WAY》第一期]()  2015.9
+[《ON THE WAY》第一期](https://github.com/seefun/marxists/raw/master/data/on_the_way_1.pdf)  2016.2
 
 
-[《ON THE WAY》第二期]()  2016.9
+[《ON THE WAY》第二期](https://github.com/seefun/marxists/raw/master/data/on_the_way_2.pdf)  2016.9
 
 
 [《ON THE WAY》第三期]()  2017.9
