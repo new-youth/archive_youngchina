@@ -24,4 +24,6 @@
 
 ![聊协MIT](https://raw.githubusercontent.com/seefun/marxists/master/data/barcode.jpg )
 
+友情链接：[中文马克思主义文库](https://www.marxists.org/chinese/index.html)
+
 
