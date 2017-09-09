@@ -10,7 +10,7 @@
 [《ON THE WAY》第二期](https://github.com/seefun/marxists/raw/master/data/on_the_way_2.pdf)  2016.9
 
 
-[《ON THE WAY》第三期](https://mp.weixin.qq.com/mp/homepage?__biz=MzI5NDE0OTUyNw==&hid=6&sn=803b601ab594bdd1137c5e2c35e5bc26#wechat_redirect)  2017.9
+[《野马》第三期](https://mp.weixin.qq.com/mp/homepage?__biz=MzI5NDE0OTUyNw==&hid=6&sn=803b601ab594bdd1137c5e2c35e5bc26#wechat_redirect)  2017.9
 
 
 
